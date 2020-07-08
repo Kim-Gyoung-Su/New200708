@@ -22,4 +22,4 @@ public class test2 {
 		} while (bool);
 		System.out.println(i);
 	}
-}
+}  
